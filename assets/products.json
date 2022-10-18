@@ -1,0 +1,77 @@
+[
+    {
+    "productID":1,
+    "productName":"Corsair Vengeance LPX 8GB (8GBx1) 3200MHz DDR4",
+    "productType":"Ram",
+    "productPrice":4339,
+    "productMDate":"2021,8,12",
+    "productImageUrl":"/assets/img/Corsair-Vengeance-LPX-8GB-8GBx1-3200MHz-DDR4-Desktop-Memory-CMK8GX4M1E3200C16-removebg-preview.png",
+    "productRating":4
+  },
+  {
+    "productID":2,
+    "productName":"ASUS Prime B550M-A (WI-FI) AMD B550 Motherboard",
+    "productType":"MotherBoard",
+    "productPrice":17500,
+    "productMDate":"2021,5,10",
+    "productImageUrl":"assets/img/PRIME-B550M-A-WI-FI-1-removebg-preview.png",
+    "productRating":3.2
+  },
+  {
+    "productID":3,
+    "productName":"AMD 3rd Gen Ryzen Threadripper 3960X Desktop Processor",
+    "productPrice":147999,
+    "productImageUrl":"assets/img/AMD-3rd-Gen-Ryzen-Threadripper-3960X-Desktop-Processor-removebg-preview.png",
+    "productType":"Processor",
+    "productMDate":"2019,5,15",
+    "productRating":4.5
+  }
+,
+  {
+    "productID":4,
+    "productName":"G.SKILL Sniper X Series 16GB (2x8GB) 3600MHz DDR4",
+    "productPrice":12499,
+    "productImageUrl":"assets/img/GSKILL-Sniper-X-Series-16GB-3600MHz-DDR4-Memory-F4-3600C19D-16GSXWB-removebg-preview.png",
+    "productType":"Ram",
+    "productMDate":"2020,8,22",
+    "productRating":3.9
+  },
+{
+    "productID":5,
+    "productName":"ASUS EX-A320M-Gaming Motherboard",
+    "productPrice":6375,
+    "productImageUrl":"assets/img/ASUS-EX-A320M-GAMING-Motherboard-removebg-preview.png",
+    "productType":"MotherBoard",
+    "productMDate":"2021,1,5",
+    "productRating":2
+  }
+,
+  {
+    "productID":6,
+    "productName":"WD Blue 500GB SA510 2.5 Inch SATA Internal SSD",
+    "productPrice":5179,
+    "productImageUrl":"assets/img/WD-Blue-500GB-SA510-SATA-Internal-SSD-WDS500G3B0A-400x400-removebg-preview.png",
+    "productType":"SSD Storage",
+    "productMDate":"2020,11,25",
+    "productRating":2.6
+  },
+
+{
+    "productID":7,
+    "productName":"Intel Core i7-12700K 12th Gen Alder Lake Processor",
+    "productPrice":48124,
+    "productImageUrl":"assets/img/Core-i7-12700K-1-removebg-preview.png",
+    "productType":"Processor",
+    "productMDate":"2020,10,27",
+    "productRating":5
+  },
+{
+    "productID":8,
+    "productName":"Seagate Exos X16 16TB 7200 RPM SATA 6Gb/s 3.5-Inch Enterprise HDD",
+    "productPrice":49661,
+    "productImageUrl":"assets/img/Seagate-Exos-X16-16TB-7200-RPM-SATA-Enterprise-Hard-Drive-ST16000NM001G-removebg-preview.png",
+    "productType":"HDD Storage",
+    "productMDate":"2018,1,28",
+    "productRating":4
+  }
+]
